@@ -1,0 +1,19 @@
+{
+  "name": "mofron-event-mouseup",
+  "version": "0.0.1",
+  "description": "mouse-up event for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofron/mofron-event-mouseup.git"
+  },
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mofron/mofron-event-mouseup/issues"
+  },
+  "homepage": "https://github.com/mofron/mofron-event-mouseup#readme"
+}
