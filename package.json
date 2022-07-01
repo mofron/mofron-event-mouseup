@@ -1,6 +1,6 @@
 {
   "name": "mofron-event-mouseup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mouse-up event for mofron",
   "main": "index.js",
   "scripts": {
