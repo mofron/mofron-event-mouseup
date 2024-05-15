@@ -40,9 +40,9 @@ module.exports = class extends mofron.class.Event {
             let evt_obj = this;
             tgt_dom.getRawDom().addEventListener(
                 'mouseup',
-                () => { 
+                (evt) => { 
                     try {
-		        evt_obj.execListener();
+		        evt_obj.execListener(evt);
 	            } catch (e) {
                         console.error(e.stack);
                         throw e;
